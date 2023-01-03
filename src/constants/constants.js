@@ -3,7 +3,7 @@ export const projects = [
     title: "Project GPT",
     description:
       "Using ReactJs, Node.js, Material UI, Animista and Angrytools, i built this project to showcase my web development skills. It is a dark themed, modern UI website that gives information on the ChatGPT Open AI",
-    image: "/myProjectgptScreenshot/1.png",
+    image: "images/myProjectgptScreenshot.png",
     tags: ["React", "MaterialUI", "Node"],
     source: "https://myprojectgpt.onrender.com/",
     visit: "https://myprojectgpt.onrender.com/",
