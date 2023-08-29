@@ -2,12 +2,53 @@ export const projects = [
   {
     title: "Project GPT",
     description:
-      "Using ReactJs, Node.js, Material UI, Animista and Angrytools, i built this project to showcase my web development skills. It is a dark themed, modern UI website that gives information on the ChatGPT Open AI",
+      "Using ReactJs, Node.js, Material UI, Animista and Angrytools, I built this project to showcase my web development skills. It is a dark themed, modern UI website that gives information on the ChatGPT Open AI",
     image: "/images/myProjectgptScreenshot.png",
     tags: ["React", "MaterialUI", "Node"],
     source: "https://myprojectgpt.onrender.com/",
     visit: "https://myprojectgpt.onrender.com/",
     id: 0,
+  },
+  {
+    title: "Wolburg",
+    description:
+      "Using ReactJs and Node.js, I built this fullstack website with a team of four Engineers. Here, I documented all data schemas and api endpoints by analysing the Figma design. I also setup the project backend and created a couple of endpoints. ",
+    image: "/images/wolburg.png",
+    tags: ["Context API", "Figma", "Node", "Scrum", "MongoDB", "JWT"],
+    source: "https://wolburg.com/",
+    visit: "https://wolburg.com/",
+    id: 1,
+  },
+  {
+    title: "OGC Publications",
+    description:
+      "I was responsible for optimising, maintaining, rebuilding and adding features to the project",
+    image: "/images/ogc.png",
+    tags: ["React", "MaterialUI", "Node"],
+    source: "https://ogcpublications.com/",
+    visit: "https://ogcpublications.com/",
+    id: 2,
+  },
+  {
+    title: "Onorio Cutane ministries",
+    description:
+      "I was responsible for optimising, maintaining, rebuilding and adding features to the project",
+    image: "/images/ocm.png",
+    tags: ["React", "MaterialUI", "Node"],
+    source: "https://onoriocutane.org/",
+    visit: "https://onoriocutane.org/",
+    id: 3,
+  },
+  {
+    
+    title: "OGC Dashboard",
+    description:
+      "Using React,UI library integration such as Syncfusion and stripe API payment gateway, I built this dashboard based on specific client requirements and expanded existing API to handle required requests",
+    image: "/images/ogcDashboard.png",
+    tags: ["React", "SyncfusionUI", "Node", "Stripe", "AWS"],
+    source: "https://google.com/",
+    visit: "https://google.com/",
+    id: 4,
   }
   // {
   //   title: "E-Commerce",

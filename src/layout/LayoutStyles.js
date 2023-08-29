@@ -5,3 +5,7 @@ max-width: 1280px;
 width: 100%;
 margin: auto;
 `;
+
+export const ProgressContainer = styled.div`
+position:"fixed"
+`

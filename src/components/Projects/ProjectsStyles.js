@@ -85,7 +85,7 @@ export const UtilityList = styled.ul`
   padding: 0;
   display: flex;
   justify-content: space-around;
-  margin: 2.5rem 0;
+  margin: 2rem 0;
 `;
 
 export const ExternalLinks = styled.a`
@@ -103,8 +103,11 @@ transition: 0.5s;
 
 export const TagList = styled.ul`
 display: flex;
+flex-wrap: wrap;
 justify-content: space-around;
 padding: 2rem;
+gap: 5px;
+line-height: 1;
 `
 export const Tag = styled.li`
 color: #d8bfbf;
